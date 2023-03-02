@@ -6,7 +6,8 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 bandit0
 bandit0
 ## Solucion
-'''
+```
+
 ssh bandit0@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
@@ -18,7 +19,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
             More information on http://www.overthewire.org/wargames
 
 bandit0@bandit.labs.overthewire.org's password: 
-'''
+```
 
 ## Notas adicionales 
 Se recomienda agregar el host a la lista de hosts conocidos

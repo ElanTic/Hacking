@@ -1,15 +1,10 @@
-
-# Retos Bandit
-
-# Level X
-
 ## Objetivo
 
 ## Datos de acceso al nivel
 **bandit.labs.overthewire.org**
-banditN
+bandit13
 Pasword
-****** 
+wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 ## Solucion
 ```
 ```
