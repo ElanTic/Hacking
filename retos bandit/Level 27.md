@@ -4,7 +4,7 @@ There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/rep
 ## Datos de acceso al nivel
 **bandit.labs.overthewire.org**
 bandit27
-AVanL161y9rsbcJIsFHuw35rjaOM19nR
+YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 ****** 
 ## Solucion
 ```
