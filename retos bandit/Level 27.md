@@ -1,10 +1,10 @@
-AVanL161y9rsbcJIsFHuw35rjaOM19nR
+
 ## Objetivo
 
 ## Datos de acceso al nivel
 **bandit.labs.overthewire.org**
-banditN
-Pasword
+bandit27
+AVanL161y9rsbcJIsFHuw35rjaOM19nR
 ****** 
 ## Solucion
 ```
