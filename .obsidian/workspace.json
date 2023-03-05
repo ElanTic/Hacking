@@ -49,7 +49,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos bandit/Level 30.md",
+                "file": "retos bandit/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad8c20dfd72075e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos bandit/Level 32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f54cacc4e5240a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos bandit/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec8d26acae331fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos bandit/Level 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,16 +95,12 @@
             "id": "f6f42630e570b31c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos bandit/Level 31.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos bandit/Level 31.md",
+                "file": "retos bandit/Level 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos bandit/Level 31.md",
+                "file": "retos bandit/Level 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos bandit/Level 31.md"
+                "file": "retos bandit/Level 33.md"
               }
             }
           }
@@ -195,34 +227,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6f42630e570b31c",
+  "active": "ec8d26acae331fcf",
   "lastOpenFiles": [
-    "retos bandit/Level 29.md",
+    "retos bandit/Level 32.md",
+    "retos bandit/Level 33.md",
     "retos bandit/Level 31.md",
     "retos bandit/Level 30.md",
     "retos bandit/plantilla.md",
-    "retos bandit/Level 28.md",
+    "retos bandit/Untitled.md",
+    "retos bandit/Level 12.md",
+    "retos bandit/Level 13.md",
+    "retos bandit/level 14.md",
+    "retos bandit/level 15.md",
+    "retos bandit/level 26.md",
     "retos bandit/Level 25.md",
     "retos bandit/Level 24.md",
     "retos bandit/Level 23.md",
-    "retos bandit/level 26.md",
-    "retos bandit/Level 27.md",
+    "retos bandit/level 22.md",
     "retos bandit/level 16.md",
     "retos bandit/Level 17.md",
-    "retos bandit/level 22.md",
-    "retos bandit/level 14.md",
-    "retos bandit/Level 13.md",
+    "retos bandit/Level 27.md",
+    "retos bandit/Level 29.md",
+    "retos bandit/Level 28.md",
     "retos bandit/Level 8.md",
     "retos bandit/Level 7.md",
     "retos bandit/Level 6.md",
-    "retos bandit/level 15.md",
-    "retos bandit/Level 12.md",
     "retos bandit/Level 10.md",
     "retos bandit/Level 9.md",
     "primer_parcial/2019/05-strings it.md",
-    "retos bandit/Level 5.md",
-    "primer_parcial/2019/06-Bases.md",
-    "primer_parcial/2019/04-what's a net cat?.md",
     "fork.sh",
     "primer_parcial/2022",
     "primer_parcial/2021",
