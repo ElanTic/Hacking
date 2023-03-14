@@ -7,11 +7,14 @@ What does this `bDNhcm5fdGgzX3IwcDM1` mean? I think it has something to do with 
 ****** 
 ## Solucion
 ```bash
-jt@jt-VirtualBox:~/Downloads$ strings strings | grep picoCTF
-picoCTF{5tRIng5_1T_827aee91}
+jt@jt-VirtualBox:~$ bDNhcm5fdGgzX3IwcDM1 | base64 -d
+bDNhcm5fdGgzX3IwcDM1: command not found
+jt@jt-VirtualBox:~$ echo !!
+echo bDNhcm5fdGgzX3IwcDM1 | base64 -d
+l3arn_th3_r0p35jt@jt-VirtualBox:~$ 
 ```
 ## bandera
-picoCTF{5tRIng5_1T_827aee91}
+picoCTF{l3arn_th3_r0p35}
 
 ## Notas adicionales 
 
