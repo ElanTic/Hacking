@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Explotation/06-Client-side-again.md",
+                "file": "primer_parcial/2019/Plantilla2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0565439978f680a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "primer_parcial/2019/07-First Grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa473e5505e40dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "primer_parcial/2019/07-First Grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2baf230a6c648c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "primer_parcial/2019/08-Based.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Explotation/06-Client-side-again.md",
+                "file": "primer_parcial/2019/08-Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Explotation/06-Client-side-again.md",
+                "file": "primer_parcial/2019/08-Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Explotation/06-Client-side-again.md"
+                "file": "primer_parcial/2019/08-Based.md"
               }
             }
           }
@@ -146,8 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc6f3d740335b86d",
+  "active": "2baf230a6c648c51",
   "lastOpenFiles": [
+    "primer_parcial/2019/09-Plumbing.md",
+    "primer_parcial/2019/08-Based.md",
+    "primer_parcial/2019/07-First Grep.md",
+    "primer_parcial/2019/06-Bases.md",
+    "primer_parcial/2019/01-Lets Warm Up.md",
+    "primer_parcial/2019/02-Warmed up.md",
+    "primer_parcial/2019/04-what's a net cat?.md",
+    "primer_parcial/2019/03-2Warm.md",
+    "primer_parcial/2019/Plantilla2.md",
+    "retos bandit/Untitled.md",
+    "Others/pico 1.md",
+    "Web Explotation/06-Client-side-again.md",
     "Web Explotation/07-Irish-Name-Repo 1.md",
     "Web Explotation/08-Irish-Name-Repo 2.md",
     "Web Explotation/09-Irish-Name-Repo 3_.md",
@@ -155,29 +204,18 @@
     "Crypto",
     "Others/Plantilla2 1 1.md",
     "Web Explotation/Plantilla2 1.md",
-    "Others/pico 1.md",
     "Others",
     "tokken",
     "Web Explotation/01-insp3ct0r.md",
     "Web Explotation/02-where are the robots.md",
-    "Web Explotation/06-Client-side-again.md",
-    "primer_parcial/2019/Plantilla2.md",
     "Web Explotation/03-logon.md",
-    "primer_parcial/2019/06-Bases.md",
     "Web Explotation/04-dont-use-client-side.md",
     "Web Explotation/05-picobrowser.md",
     "Web Explotation",
     "primer_parcial/2019/Untitled",
-    "primer_parcial/2019/01-Lets Warm Up.md",
     "primer_parcial/2019/Untitled.md",
     "retos bandit/plantilla.md",
     "retos bandit/Level 32.md",
-    "retos bandit/Level 28.md",
-    "retos bandit/Level 27.md",
-    "primer_parcial/2019/05-strings it.md",
-    "retos bandit/Level 10.md",
-    "retos bandit/Level 8.md",
-    "retos bandit/Level 9.md",
     "fork.sh",
     "primer_parcial/2022",
     "primer_parcial/2021",
