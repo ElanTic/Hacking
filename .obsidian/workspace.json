@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f4b001d111e137f",
+        "id": "e53c73a1ff601864",
         "type": "tabs",
         "children": [
           {
-            "id": "2d53cc26b00cc61d",
+            "id": "97b59c68e86ed938",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/05-What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/05-What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/05-What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Forensic/05-What Lies Within.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d53cc26b00cc61d",
+  "active": "97b59c68e86ed938",
   "lastOpenFiles": [
-    "Forensic/04-extensions.md",
+    "Web Explotation/11-Get a head.md",
+    "Web Explotation/12-Cookies.md",
+    "Web Explotation/13-Scavenger Hunt.md",
+    "Web Explotation/Plantilla2 1.md",
+    "Others/Plantilla2 1 1.md",
+    "Others/pico 1.md",
     "Forensic/05-What Lies Within.md",
+    "Forensic/04-extensions.md",
     "Forensic/Plantilla2 1 1.md",
     "Forensic/03-Shark on wire.md",
     "Forensic/02-So meta.md",
@@ -165,19 +163,13 @@
     "primer_parcial/2019/03-2Warm.md",
     "primer_parcial/2019/Plantilla2.md",
     "retos bandit/Untitled.md",
-    "Others/pico 1.md",
     "Web Explotation/06-Client-side-again.md",
     "Web Explotation/07-Irish-Name-Repo 1.md",
     "Web Explotation/08-Irish-Name-Repo 2.md",
     "Web Explotation/09-Irish-Name-Repo 3_.md",
-    "Web Explotation/10-JaWT Scratchpad.md",
     "Crypto",
-    "Others/Plantilla2 1 1.md",
-    "Web Explotation/Plantilla2 1.md",
     "Others",
     "tokken",
-    "Web Explotation/01-insp3ct0r.md",
-    "Web Explotation/02-where are the robots.md",
     "Web Explotation",
     "primer_parcial/2019/Untitled",
     "fork.sh",
