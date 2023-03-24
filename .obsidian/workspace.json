@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac4e0247dcef1fd6",
+        "id": "7f4b001d111e137f",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6f3d740335b86d",
+            "id": "2d53cc26b00cc61d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer_parcial/2019/Plantilla2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0565439978f680a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer_parcial/2019/07-First Grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa473e5505e40dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer_parcial/2019/07-First Grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2baf230a6c648c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer_parcial/2019/08-Based.md",
+                "file": "Forensic/05-What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer_parcial/2019/08-Based.md",
+                "file": "Forensic/05-What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer_parcial/2019/08-Based.md",
+                "file": "Forensic/05-What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer_parcial/2019/08-Based.md"
+                "file": "Forensic/05-What Lies Within.md"
               }
             }
           }
@@ -183,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2baf230a6c648c51",
+  "active": "2d53cc26b00cc61d",
   "lastOpenFiles": [
-    "primer_parcial/2019/09-Plumbing.md",
+    "Forensic/04-extensions.md",
+    "Forensic/05-What Lies Within.md",
+    "Forensic/Plantilla2 1 1.md",
+    "Forensic/03-Shark on wire.md",
+    "Forensic/02-So meta.md",
+    "Forensic/01-Glory of the garden.md",
     "primer_parcial/2019/08-Based.md",
+    "Forensic",
+    "primer_parcial/2019/09-Plumbing.md",
     "primer_parcial/2019/07-First Grep.md",
     "primer_parcial/2019/06-Bases.md",
     "primer_parcial/2019/01-Lets Warm Up.md",
@@ -208,18 +178,11 @@
     "tokken",
     "Web Explotation/01-insp3ct0r.md",
     "Web Explotation/02-where are the robots.md",
-    "Web Explotation/03-logon.md",
-    "Web Explotation/04-dont-use-client-side.md",
-    "Web Explotation/05-picobrowser.md",
     "Web Explotation",
     "primer_parcial/2019/Untitled",
-    "primer_parcial/2019/Untitled.md",
-    "retos bandit/plantilla.md",
-    "retos bandit/Level 32.md",
     "fork.sh",
     "primer_parcial/2022",
     "primer_parcial/2021",
-    "primer_parcial/2019",
-    "primer_parcial"
+    "primer_parcial/2019"
   ]
 }
