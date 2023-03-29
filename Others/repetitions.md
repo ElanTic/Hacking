@@ -1,4 +1,5 @@
 ## Descripcion
+Can you make sense of this file? Download the file [here](https://artifacts.picoctf.net/c/471/enc_flag).
 
 ## Pistas 
 ****** 
@@ -31,7 +32,7 @@ picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_a2d1b8b6}
 jt@jt-VirtualBox:~/Downloads$ 
 ```
 ## bandera
-picoCTF{p}
+picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_a2d1b8b6}
 
 ## Notas adicionales 
 
