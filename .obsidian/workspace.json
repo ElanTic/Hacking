@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93d3757c05b010fc",
+        "id": "a0c6161037d5cb29",
         "type": "tabs",
         "children": [
           {
-            "id": "c74e9890756e801d",
+            "id": "08b8e4710f8c294a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/08-c0rrupt.md",
+                "file": "picoCTF 2023/chrono.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/08-c0rrupt.md",
+                "file": "picoCTF 2023/chrono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/08-c0rrupt.md",
+                "file": "picoCTF 2023/chrono.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/08-c0rrupt.md"
+                "file": "picoCTF 2023/chrono.md"
               }
             }
           }
@@ -146,34 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9982b5608177035",
+  "active": "08b8e4710f8c294a",
   "lastOpenFiles": [
+    "picoCTF 2023/hideme.md",
+    "picoCTF 2023/MatchTheRegex.md",
+    "picoCTF 2023/money-ware.md",
+    "picoCTF 2023/MoreSqli.md",
+    "picoCTF 2023/PcapPoisoning.md",
+    "picoCTF 2023/Permissions.md",
+    "picoCTF 2023/ReadMyCert.md",
+    "picoCTF 2023/Ready Gladiator 0.md",
+    "picoCTF 2023/repetitions.md",
+    "picoCTF 2023/Reverse.md",
+    "picoCTF 2023/rotation.md",
+    "picoCTF 2023/Rules 2023.md",
+    "picoCTF 2023/Safe Opener 2.md",
+    "picoCTF 2023/Timer.md",
+    "picoCTF 2023/two-sum.md",
+    "picoCTF 2023/useless.md",
+    "picoCTF 2023/who is it.md",
+    "picoCTF 2023",
+    "Others/Untitled",
+    "picoCTF 2023/chrono.md",
+    "Others/Rules 2023(1).md",
+    "Others/rotation(1).md",
+    "Forensic/08-c0rrupt.md",
     "Forensic/07-WhitePages.md",
     "Forensic/06-m00nwalk.md",
-    "Forensic/08-c0rrupt.md",
     "Forensic/09-like 100.md",
     "Forensic/05-What Lies Within.md",
-    "Forensic/04-extensions.md",
-    "Forensic/0x.md",
-    "Others/Plantilla2 1 1.md",
-    "Others/MoreSqli.md",
-    "Others/useless.md",
-    "Others/repetitions.md",
-    "Forensic/03-Shark on wire.md",
-    "Forensic/02-So meta.md",
-    "Forensic/01-Glory of the garden.md",
-    "Web Explotation/03-logon.md",
-    "Web Explotation/04-dont-use-client-side.md",
-    "Web Explotation/05-picobrowser.md",
-    "Web Explotation/06-Client-side-again.md",
-    "Web Explotation/07-Irish-Name-Repo 1.md",
-    "Web Explotation/08-Irish-Name-Repo 2.md",
-    "Web Explotation/11-Get a head.md",
-    "Web Explotation/10-JaWT Scratchpad.md",
-    "Web Explotation/13-Scavenger Hunt.md",
-    "Web Explotation/12-Cookies.md",
-    "Web Explotation/09-Irish-Name-Repo 3_.md",
-    "retos bandit/Level 10.md",
     "Forensic",
     "Crypto",
     "Others",
@@ -181,8 +182,6 @@
     "Web Explotation",
     "primer_parcial/2019/Untitled",
     "fork.sh",
-    "primer_parcial/2022",
-    "primer_parcial/2021",
-    "primer_parcial/2019"
+    "primer_parcial/2022"
   ]
 }
