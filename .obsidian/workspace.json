@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/03-13.md",
+                "file": "Reversing/999plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4e3d0046fcaf979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reversing/01-vault-door-training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f0f6a4b95c588a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reversing/02-vault-door-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f7164aa6e165bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reversing/03-vault-door-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d18875d5d8522ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reversing/04-vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/03-13.md",
+                "file": "Reversing/04-vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/03-13.md",
+                "file": "Reversing/04-vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/03-13.md"
+                "file": "Reversing/04-vault-door-4.md"
               }
             }
           }
@@ -146,13 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac7c56b77729178f",
+  "active": "d18875d5d8522ee5",
   "lastOpenFiles": [
-    "Crypto/02-Easy 1.md",
+    "Reversing/03-vault-door-3.md",
+    "Reversing/04-vault-door-4.md",
+    "Reversing/02-vault-door-1.md",
+    "Reversing/01-vault-door-training.md",
+    "Reversing/999plantilla.md",
+    "segundo_parcial",
     "Crypto/03-13.md",
+    "Reversing",
+    "Crypto/02-Easy 1.md",
     "Crypto/15-ReadMyCert.md",
     "Crypto/07-waves over lambda.md",
-    "Crypto/999plantilla.md",
     "Crypto/04-caesar.md",
     "Crypto/12-Pixelated.md",
     "Crypto/13-basic-mod1.md",
@@ -170,10 +225,6 @@
     "Forensic/11-webnet0.md",
     "Forensic/10-shark on wire 2.md",
     "Forensic/08-c0rrupt.md",
-    "Forensic/07-WhitePages.md",
-    "Forensic/06-m00nwalk.md",
-    "Forensic/0x-webnet0 1.md",
-    "picoCTF 2023/chrono.md",
     "picoCTF 2023",
     "Others/Untitled",
     "Forensic",
@@ -181,8 +232,6 @@
     "Others",
     "tokken",
     "Web Explotation",
-    "primer_parcial/2019/Untitled",
-    "fork.sh",
-    "primer_parcial/2022"
+    "primer_parcial/2019/Untitled"
   ]
 }
