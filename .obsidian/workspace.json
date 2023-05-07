@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segundo_parcial/2022/Web/04-Search Source.md",
+                "file": "Crypto/08-rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo_parcial/2022/Web/04-Search Source.md",
+                "file": "Crypto/08-rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo_parcial/2022/Web/04-Search Source.md",
+                "file": "Crypto/08-rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segundo_parcial/2022/Web/04-Search Source.md"
+                "file": "Crypto/08-rsa-pop-quiz.md"
               }
             }
           }
@@ -156,6 +156,11 @@
   },
   "active": "ac7c56b77729178f",
   "lastOpenFiles": [
+    "Crypto/09-mini-RSA.md",
+    "Crypto/10-b00tl3gRSA2.md",
+    "Crypto/08-rsa-pop-quiz.md",
+    "Crypto/07-waves over lambda.md",
+    "segundo_parcial/2022/Web/04-Search Source.md",
     "segundo_parcial/2022/Forensics/05-St3g0.md",
     "segundo_parcial/2022/Forensics/04-Redaction gone wrong.md",
     "segundo_parcial/2022/Forensics/03-Packets Primer.md",
@@ -168,7 +173,6 @@
     "segundo_parcial/2022/Web/01-Includes.md",
     "segundo_parcial/2022/Web/02-Inspect HTML.md",
     "segundo_parcial/2022/Web/03-Local authority.md",
-    "segundo_parcial/2022/Web/04-Search Source.md",
     "segundo_parcial/2022/Web/05-Forbiden paths.md",
     "segundo_parcial/2022/Web/10-SQLLite.md",
     "Forensic/08-c0rrupt.md",
@@ -178,10 +182,6 @@
     "Forensic/04-extensions.md",
     "Forensic/03-Shark on wire.md",
     "Forensic/01-Glory of the garden.md",
-    "Forensic/02-So meta.md",
-    "Forensic/15-MacroHard WeakEdge.md",
-    "Forensic/14-tunn3l v1s10n.md",
-    "Forensic/11-webnet0.md",
     "segundo_parcial/2022/Forensics",
     "segundo_parcial/2022/Web",
     "segundo_parcial/2021",
