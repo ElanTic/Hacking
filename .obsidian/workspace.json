@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tercer_parcial/crypto/05-SRA.md",
+                "file": "tercer_parcial/reversing/07-GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tercer_parcial/crypto/05-SRA.md",
+                "file": "tercer_parcial/reversing/07-GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tercer_parcial/crypto/05-SRA.md",
+                "file": "tercer_parcial/reversing/07-GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tercer_parcial/crypto/05-SRA.md"
+                "file": "tercer_parcial/reversing/07-GDB baby step 2.md"
               }
             }
           }
@@ -156,15 +156,16 @@
   },
   "active": "75c712b3347b4f69",
   "lastOpenFiles": [
+    "tercer_parcial/reversing/06-GDB baby step 1.md",
+    "tercer_parcial/reversing/07-GDB baby step 2.md",
+    "tercer_parcial/crypto/05-SRA.md",
     "tercer_parcial/crypto/01-Flags.md",
     "tercer_parcial/crypto/02-Mr-Worldwide.md",
     "tercer_parcial/crypto/03-transposition-trial.md",
     "tercer_parcial/crypto/04-Vigenere.md",
-    "tercer_parcial/reversing/06-GDB baby step 1.md",
     "tercer_parcial/reversing/05-Bit-O-Asm-4.md",
     "tercer_parcial/reversing/02-Bit-O-Asm-1.md",
     "tercer_parcial/reversing/01-ASCII-FTW.md",
-    "tercer_parcial/reversing/07-GDB baby step 1 1.md",
     "tercer_parcial/binary/04-two-sum.md",
     "Binary Exploitation/04-flag-leak.md",
     "picoCTF 2023/two-sum.md",
@@ -174,7 +175,6 @@
     "Binary Exploitation/02-buffer overflow 0.md",
     "Binary Exploitation/05-stonks.md",
     "tercer_parcial/binary/01-Picker IV.md",
-    "tercer_parcial/crypto/05-SRA.md",
     "tercer_parcial/reversing/04-Bit-O-Asm-3.md",
     "tercer_parcial/reversing/03-Bit-O-Asm-2.md",
     "Reversing/09-GDB Test Drive.md",
